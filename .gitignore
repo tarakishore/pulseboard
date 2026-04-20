@@ -1,0 +1,14 @@
+.env
+firebase/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+env/
+node_modules/
+.ipynb_checkpoints/
+*.log
+.vscode/
+.idea/
+test_out.txt
